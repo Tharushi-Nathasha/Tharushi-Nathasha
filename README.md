@@ -1,7 +1,6 @@
 <img src="https://i.pinimg.com/originals/a5/d1/f6/a5d1f61e89bdce061817723044f8a757.gif" style="width: 100%; height: auto;">
 
-
-<h1 align="center">Hi 👋, I'm Tharushi Nathasha Walisundara</h1>
+<h1 align="center">Hi,I'm Tharushi Nathasha Walisundara</h1>
 <h3 align="center">A passionate Fullstack developer from Sri Lanka.</h3>
 <img align="center" alt="coding" width="300" height="200" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
