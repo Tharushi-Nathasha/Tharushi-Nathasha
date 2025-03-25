@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi,I'm Tharushi Nathasha Walisundara</h1>
+<h1 align="center">Hi, I'm Tharushi Nathasha Walisundara</h1>
 <h3 align="center">I’m a Computer Science undergraduate from Sri Lanka, currently studying at the University of Westminster, with hands-on experience in Java, Python, HTML/CSS, JavaScript, and MySQL. I enjoy building full-stack projects, optimizing databases, and solving algorithmic challenges.My goal is to leverage my skills in software development and web technologies to create efficient, user-centric solutions. I’m actively exploring frameworks like Spring (Java) and React (JS) while deepening my knowledge of backend systems and data management.</h3>
 
 <div style="text-align: right;">
