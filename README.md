@@ -1,10 +1,6 @@
 
-<h1 align="center">Hi, I'm Tharushi Nathasha Walisundara</h1>
-<h3 align="center">I’m a Computer Science undergraduate from Sri Lanka, currently studying at the University of Westminster, with hands-on experience in Java, Python, HTML/CSS, JavaScript, and MySQL. I enjoy building full-stack projects, optimizing databases, and solving algorithmic challenges.My goal is to leverage my skills in software development and web technologies to create efficient, user-centric solutions.I’m actively exploring frameworks like Spring (Java) and React (JS) while deepening my knowledge of backend systems and data management.</h3>
-
-<div style="text-align: right;">
-  <img alt="coding" width="300" height="200" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
-</div>
+<h3 align="center"></h3>
+<h1 align="center">👋 Hi, I'm Tharushi Nathasha Walisundara</h1> <h3 align="center">A Computer Science Undergraduate from Sri Lanka 🇱🇰</h3><div align="center"> <img alt="coding" width="350" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushi-nathasha&label=Profile%20views&color=0e75b6&style=flat" alt="tharushi-nathasha" /> </p>
 
