@@ -30,7 +30,7 @@
 - 🏨 **LeoLy Hotel Management** – Python-based interactive console program simulating a hotel booking system.
 - 🧮 **Calculator** – A simple calculator app built in Java.
 - 🎫 **Ticketing System** – A ticketing system built with Spring Boot and Angular, featuring real-time availability, secure bookings, and a responsive UI.
-- ✈️ **Plane Management Program** – A project related to plane management (details unspecified).
+- ✈️ **Plane Management Program** – A project related to plane management built with Java.
   
 ---
 
