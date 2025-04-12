@@ -26,7 +26,12 @@
 - 📱 **Weather App** – Built with vanilla JavaScript, HTML & CSS and shared on GitHub and LinkedIn.
 - 🎥 **Vincenzo Movie Ticket Booking** – A stylish Figma prototype inspired by the K-Drama *Vincenzo*.
 - 🛒 **BioMex eCommerce** – Developed the shop, splash screen, and galleries.
-
+- 📚 **Student Record System** – Python-based student record system with progression prediction, input validation, and histogram visualization.
+- 🏨 **LeoLy Hotel Management** – Python-based interactive console program simulating a hotel booking system.
+- 🧮 **Calculator** – A simple calculator app built in Java.
+- 🎫 **Ticketing System** – A ticketing system built with Spring Boot and Angular, featuring real-time availability, secure bookings, and a responsive UI.
+- ✈️ **Plane Management Program** – A project related to plane management (details unspecified).
+  
 ---
 
 ### 🔧 Tech Stack & Tools
