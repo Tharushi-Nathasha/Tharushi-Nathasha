@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Tharushi+Nathasha!;Computer+Science+Undergraduate+from+Sri+Lanka;Full+Stack+Developer+|+Tech+Enthusiast+🚀&center=true&width=600&height=45&color=4F8CC9&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Tharushi+Nathasha!;Computer+Science+Undergraduate+from+Sri+Lanka;Full+Stack+Developer+%7C+Tech+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="300" alt="coding-gif" />
